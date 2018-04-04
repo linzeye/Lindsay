@@ -24,7 +24,7 @@
 ## What are your self-perceived biggest shortcomings?
 - I'm too self-critical.
 - Worrying about something that might not happen.
-- I will sometimes avoid conflict due to my friendly nature. Please call me out on this, I'm trying to do better here.
+- I will sometimes avoid conflict. Please call me out on this, I'm trying to do better here.
 - I am sometimes unconsciously oppositional - again call me out on that, let's talk about something, I can be persuaded with good facts.
 
 This was inspired by https://github.com/fool/owners_manual
