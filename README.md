@@ -8,7 +8,7 @@
 - I love to help. I like to pitch in and make suggestions.
 - I enjoy low-key discussions, where everyone's contribution can be heard.
 - I need independence and autonomy.
-- I am Idealistic and trusting.
+- I am idealistic and trusting.
 
 ## How can you best work with me?
 - I'm super organised. So I like events and tasks that I can put in my calendar.
