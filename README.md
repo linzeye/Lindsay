@@ -35,14 +35,12 @@ These answers are also based on my Birkman report! If you are interested in taki
 
 # What my role looks like
 
-I’m a support team manager, heading up the High Value team. It’s my job to strategize the vision for the high value team through planning, procurement and execution. Whilst the team is still very new and small I like to remain very hands-on getting involved in all areas at a high level. See more about the team, our vision, tasks, projects and goals here: https://zapier.quip.com/folder/high-value
+**I’m a support team manager**, heading up the High Value team. It’s my job to strategize the vision for the high value team through planning, procurement and execution. Whilst the team is still very new and small I like to remain very hands-on getting involved in all areas at a high level. See more about the team, our vision, tasks, projects and goals here: https://zapier.quip.com/folder/high-value
 
 
-I’m a people manager - It’s my job to effectively develop and support my team to enable them to perform highly and get the most out of their Zapier career. This can encompass a number of tasks from 1:1s, reviews, coaching, training, support and advice. 
+**I’m a people manager** - It’s my job to effectively develop and support my team to enable them to perform highly and get the most out of their Zapier career. This can encompass a number of tasks from 1:1s, reviews, coaching, training, support and advice. 
 
-I’m also in the Support Defenders team which contains leadership members: Pam, Kris, Micah, Thomas, Bill and Richard. 
-
-
+I’m also in the Support **Defenders team** which contains leadership members: Pam, Kris, Micah, Thomas, Bill and Richard. I bring Zapier expertise and contribute to leadership decisions to help set the direction of the support org. 
 
 ## recurring meetings
 These meetings need prep and attending each week.
